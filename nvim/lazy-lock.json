@@ -1,0 +1,15 @@
+{
+  "bg.nvim": { "branch": "main", "commit": "18b4161e22decab29fa8705c174bb29b5b39be36" },
+  "lazy.nvim": { "branch": "main", "commit": "7c493713bc2cb392706866eeba53aaef6c8e9fc6" },
+  "mini.nvim": { "branch": "main", "commit": "2435d0de00174a45d6b352fefeaa6008ebe9f23b" },
+  "neoscroll.nvim": { "branch": "master", "commit": "f957373912e88579e26fdaea4735450ff2ef5c9c" },
+  "noice.nvim": { "branch": "main", "commit": "7b1960c48078a8b2fb44a89db82f4fa637b2d7c8" },
+  "nui.nvim": { "branch": "main", "commit": "53e907ffe5eedebdca1cd503b00aa8692068ca46" },
+  "nvim-notify": { "branch": "master", "commit": "fbef5d32be8466dd76544a257d3f3dce20082a07" },
+  "plenary.nvim": { "branch": "master", "commit": "2d9b06177a975543726ce5c73fca176cedbffe9d" },
+  "smear-cursor.nvim": { "branch": "main", "commit": "45894eb7ab2adb1f6a8321655420348d436b2a72" },
+  "telescope.nvim": { "branch": "master", "commit": "2eca9ba22002184ac05eddbe47a7fe2d5a384dfc" },
+  "vague.nvim": { "branch": "main", "commit": "ceeac4d04faaa83df542992098e01d893a20b5b3" },
+  "vim-airline": { "branch": "master", "commit": "7a552f415c48aed33bf7eaa3c50e78504d417913" },
+  "vim-airline-themes": { "branch": "master", "commit": "a9aa25ce323b2dd04a52706f4d1b044f4feb7617" }
+}
